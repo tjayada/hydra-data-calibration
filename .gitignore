@@ -1,0 +1,12 @@
+# raw dataset and generated outputs
+24_12_19_hydra_icp_eval/
+24_12_19_hydra_icp_eval_for_share/
+*.zip
+hydra_eval/
+reprojection_out/
+
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+venv/
